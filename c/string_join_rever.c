@@ -25,5 +25,5 @@ void main()
 		reverse[j]=string1[i];
 	}
 	reverse[n]='\0';
-	printf("Reverse of the output : %s \n",reverse);
+	printf("Reverse of the contatenation : %s \n",reverse);
 }
