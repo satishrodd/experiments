@@ -19,7 +19,7 @@ void main()
 	{
 		number[i]=number[i+1];
 	}
-	for(i=0;i<n-1;i++)
+	for(i=0;i<n;i++)
 	{
 		printf("%d\n",number[i]);
 	}
