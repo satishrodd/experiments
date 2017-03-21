@@ -1,0 +1,22 @@
+#include<stdio.h>
+void main()
+{
+	int i,j,n=1;
+	char strng[10]="aacdd";
+	char out[1];
+	for(i=0;i<6;i++)
+	{
+		for(j=i+1;j<6;j++)
+		{
+			if(strng[i]==strng[j])
+			{
+				n=n+1;
+			}
+
+		}
+		out[1]=strng[i];
+		printf("%s",out
+			"%d",n);
+		
+	}
+}
