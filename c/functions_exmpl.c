@@ -5,7 +5,7 @@ int main()
 	int a,b;
 	int prod; 
 	prod=product(a,b);
-printf("%d\n",prod);
+    printf("%d\n",prod);
 	return 0;
 }
 
